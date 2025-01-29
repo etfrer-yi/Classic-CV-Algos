@@ -1,6 +1,6 @@
 <div align="center">
 
-# Classic Computer Vision Algorithms
+# LeNet
 
 </div>
 
@@ -22,4 +22,4 @@
 </div>
 
 # Introduction
-This repository contains a variety of classic computer vision algorithms. Only AlexNet and LeNet-5 have been implemented by myself following the specifications of the model.
+This repo contains my own implementation of LeNet using the model's original specs.
